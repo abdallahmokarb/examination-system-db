@@ -1,0 +1,6 @@
+personID,firstName,lastName,email,password,role
+6,ABANOUB,GHALY,abano@lab1.com,pass6,student
+7,ABDALLAH,MOKARB,abdall@lab1.com,pass7,student
+8,ABDERAH,HASSANI,abderah@lab1.com,pass8,student
+9,ABDULRAHMAN,SAYED,abd@lab1.com,pass9,student
+10,AHMED,ABDELBAKY,ahm@lab1.com,pass10,student
